@@ -562,4 +562,4 @@ carrega_palavra_secreta(nome_arquivo="frutas.txt", primeira_linha_valida= 5)
 carrega_palavra_secreta(primeira_linha_valida=5, nome_arquivo="frutas.txt")
 ```
 
-⬆️ [Voltar ao topo](#avancando-na-linguagem-python) ⬆️
+⬆️ [Voltar ao topo](#avançando-na-linguagem-python) ⬆️
