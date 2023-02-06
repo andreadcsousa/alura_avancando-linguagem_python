@@ -561,3 +561,5 @@ carrega_palavra_secreta(nome_arquivo="frutas.txt", primeira_linha_valida= 5)
 # a ordem dos parâmetros não altera o resultado obtido
 carrega_palavra_secreta(primeira_linha_valida=5, nome_arquivo="frutas.txt")
 ```
+
+⬆️ [Voltar ao topo](#avancando-na-linguagem-python) ⬆️
